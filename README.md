@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis
+# Customer Segmentation & Behaviour Analysis for Retail Data Using Visualization, PCA, and Clustering
 
 This repository contains an analysis of customer demographics and purchase behaviour aimed at enhancing personalization, customer retention, and targeted marketing strategies. The project leverages segmentation techniques to identify key consumer groups and provide actionable insights.
 
